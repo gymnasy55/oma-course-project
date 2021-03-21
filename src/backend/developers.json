@@ -1,0 +1,35 @@
+[
+  {
+    "first_name": "Daniel",
+    "last_name": "Kubariev",
+    "age": "28",
+    "height": "184",
+    "weight": "100",
+    "position": "Team Lead",
+    "sex": "male",
+    "avatar_url": "daniel_kubariev.jpg",
+    "hobby": "I like JavaScript!"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "age": "25",
+    "height": "180",
+    "weight": "80",
+    "position": "Tech Lead",
+    "sex": "male",
+    "avatar_url": "john_doe.jpg",
+    "hobby": "I like HTML!"
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "age": "18",
+    "height": "165",
+    "weight": "55",
+    "position": "UX Designer",
+    "sex": "female",
+    "avatar_url": "jane_doe.jpg",
+    "hobby": "I like CSS!"
+  }
+]
